@@ -1,5 +1,7 @@
 import express from "express";
 
+// import all the controllers
+
 import {
   createUser,
   getAllUsers,
